@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "1096095226571",
+    "project_id": "niggagym",
+    "storage_bucket": "niggagym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:347f413c0118f02237d94e",
+        "android_client_info": {
+          "package_name": "com.cwc.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:e85099d14c23794837d94e",
+        "android_client_info": {
+          "package_name": "com.example.motorsuchiha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:48caa84f82bfbc4d37d94e",
+        "android_client_info": {
+          "package_name": "com.example.niggagym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:852b8f762f0949b537d94e",
+        "android_client_info": {
+          "package_name": "com.flutter.firebase.crud.flutterappproducts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:12976a117a76afed37d94e",
+        "android_client_info": {
+          "package_name": "com.mygym.gymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:ddc9ba384856adb437d94e",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.a_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095226571:android:b00f4d509b96aa1d37d94e",
+        "android_client_info": {
+          "package_name": "niggas_owo12.sd.d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096095226571-j6273jki214k5dgsr09chg7uitv1th3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

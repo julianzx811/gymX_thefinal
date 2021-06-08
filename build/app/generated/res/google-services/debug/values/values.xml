@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1096095226571-l42dk9ks581cescns3lp0bn7jui3f0n6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1096095226571</string>
+    <string name="google_api_key" translatable="false">AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI</string>
+    <string name="google_app_id" translatable="false">1:1096095226571:android:12976a117a76afed37d94e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASnMJc8eCyk9ZENWK6uek1Gx7Aed3k8qI</string>
+    <string name="google_storage_bucket" translatable="false">niggagym.appspot.com</string>
+    <string name="project_id" translatable="false">niggagym</string>
+</resources>
